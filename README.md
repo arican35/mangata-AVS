@@ -3,17 +3,6 @@
 
 ## Notlar:
 
-> Selamlar, bir süredir mangata çalıştırıyorum lakin 30 kişi ile sınırlıydı ve artık sınır kalktı.
-
-> Neden Mangata kuruyor Eigen AVS ekosistemine önem veriyorum [buradan](https://x.com/Ruesandora0/status/1754194993592275362?s=20) okuyabilirsiniz.
-
-> Testnet ne kadar sürürecek bilinmiyor, rewards var evet - KYC olabilir.
-
-> Ayrıca Mangatanın bir tokeni mevcut, yatırımcıları oldukça iyi ileride daha iyi hale gelecek bir protokol ve testnet önemli.
-
-> Ricamdır notları ve satır aralarını okumanızda, bu repoyu paylaştıktan sonra uçakta olacağım her şeyi yazıyorum size.
-
-> Son olarak, hocam şu node ile bu node yan yana olur mu diye sormayın [buraya](https://x.com/Ruesandora0/status/1744023547805061515?s=20) bakın arkadaşlar <3
 
 > Topluluk kanalları: [Sohbet Kanalımız](https://t.me/RuesChat) - [Duyurular ve Gelişmeler](https://t.me/RuesAnnouncement) - [Whatsapp](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Mangata Discord](https://discord.gg/mangata)
 
